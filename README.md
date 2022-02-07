@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jnile
+- 👋 Hi, I’m Jaidev Nileshkumar
 - 👀 I’m interested in Games and Coding
-- 🌱 I’m currently learning BSc Computer Science
+- 🌱 I’m currently learning BSc Computer Science at King's College London
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
 
