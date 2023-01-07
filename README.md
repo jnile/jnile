@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jaidev Nileshkumar
-- 👀 I’m interested in Games and Coding
+- 👀 I’m interested in Coding and Maths
 - 🌱 I’m currently learning BSc Computer Science at King's College London
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
